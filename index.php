@@ -11,6 +11,7 @@ if (isset($_POST['sub'])){
 	$_SESSION['pwd']=$pwd;
 
 include 'include/log.inc.php';
+include 'include/log.inc.php';
 
 
 
